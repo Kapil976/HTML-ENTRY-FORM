@@ -1,0 +1,63 @@
+#main {
+    height: 80ch;
+}
+
+#header {
+    background-color: #347aeb;
+    height: 5ch;
+}
+
+#entry {
+    text-align: center;
+    color: white;
+    font-size: 3ch;
+}
+
+#main-bar {
+    margin: 2%;
+}
+
+#info {
+    position: relative;
+    left: 420px;
+    top: 2px;
+}
+
+#foot {
+    background-color: #349eeb;
+    text-align: center;
+    color: white;
+    font-size: 3ch;
+    height: 3ch;
+}
+
+input {
+    display: inline-block;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 60%
+}
+
+.bd,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ttd {
+    text-align: right;
+    font-weight: 600;
+}
+
+#geninfo {
+    position: relative;
+    left: 365px;
+}
